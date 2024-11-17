@@ -81,7 +81,8 @@ NOTE: Giving Exception name surrounded like <exception| or >exception| symbols i
 ![image](https://github.com/user-attachments/assets/cf3646a2-1752-40fb-ba3c-094f63951b91)
 
 * **OUTPUT:**<br>
-![image](https://github.com/user-attachments/assets/71ec4f22-0e0e-4afd-9f19-bffefc735199)
+![image](https://github.com/user-attachments/assets/92b58dcc-cf14-4e21-9d2f-e1861111c567)
+
 
 
 
