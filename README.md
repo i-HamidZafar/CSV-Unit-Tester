@@ -31,7 +31,7 @@ The **CSV Unit Tester** simplifies and accelerates the process of validating Pyt
 2. Create or specify the Python file to test (e.g., `module_to_test.py`).
 3. Run the tester:
    ```bash
-   python project.py module_to_test.py test_cases.csv
+   python main.py module_to_test.py test_cases.csv
    ```
 4. View results in the terminal.
 
